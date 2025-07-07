@@ -9,7 +9,7 @@ async function bootstrap() {
   const config = new DocumentBuilder()
     .setTitle('Blog Pessoal')
     .setDescription(
-      'Projeto em NestJS com TypeORM de um blog pessoal com autenticação.',
+      'Projeto em NestJS com TypeORM simulando um blog pessoal com autenticação.',
     )
     .setContact(
       'Miguel Ferreira',
